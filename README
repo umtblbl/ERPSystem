@@ -1,0 +1,14 @@
+
+# BankaOtomasyon
+Nesneye Yönelik Programlama - Dönem Projesi (2017-2018)
+---
+
+                                - Kullanılan Araçlar ve Teknolojiler -
+
+Microsoft Visual Studio: Yazılım geliştirme aracı (IDE) olarak Microsoft Visual Studio kullanılmıştır.
+
+C# (.Net Framework): Yazılım geliştirme dili olarak C# kullanılmıştır.
+
+DevExpress Components: Uygulama geliştirilirken görsellik ve işlevsellik sağlamak amacıyla DevExpress kütüphanesi araçlarından yararlanılmıştır.
+
+Veritabanı (Database), olarak MSSQL 2017' kullanılmış oluşturulan tablolardan Entity Framework "Ef Designer From Database" yapısı ile uygulama sınıfları veritabanındaki tablolar model alınarak oluşturulmuştur.
