@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP", "ERP\ERP.csproj", "{B6C4C8A5-D117-47CD-BE4D-18CD9AB574E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestERP", "UnitTestERP\UnitTestERP.csproj", "{BEC50B3B-81FB-4FD4-B444-6CB906431488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C4C8A5-D117-47CD-BE4D-18CD9AB574E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C4C8A5-D117-47CD-BE4D-18CD9AB574E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C4C8A5-D117-47CD-BE4D-18CD9AB574E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C4C8A5-D117-47CD-BE4D-18CD9AB574E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC50B3B-81FB-4FD4-B444-6CB906431488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC50B3B-81FB-4FD4-B444-6CB906431488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC50B3B-81FB-4FD4-B444-6CB906431488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC50B3B-81FB-4FD4-B444-6CB906431488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E95093-ADE8-4A5A-95A2-B3B68B988A33}
+	EndGlobalSection
+EndGlobal
