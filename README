@@ -1,4 +1,3 @@
-![](https://media.giphy.com/media/LrFD94mrqGcqYPxvpJ/giphy.gif)
 
                                 - Kullanılan Araçlar ve Teknolojiler -
 
@@ -9,3 +8,5 @@ C# (.Net Framework): Yazılım geliştirme dili olarak C# kullanılmıştır.
 DevExpress Components: Uygulama geliştirilirken görsellik ve işlevsellik sağlamak amacıyla DevExpress kütüphanesi araçlarından yararlanılmıştır.
 
 Veritabanı (Database), olarak MSSQL 2017' kullanılmış oluşturulan tablolardan Entity Framework "Ef Designer From Database" yapısı ile uygulama sınıfları veritabanındaki tablolar model alınarak oluşturulmuştur.
+
+![](https://media.giphy.com/media/LrFD94mrqGcqYPxvpJ/giphy.gif)
